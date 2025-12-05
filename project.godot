@@ -1,0 +1,6 @@
+[gd_resource type="ConfigFile" format=4]
+
+[application]
+
+config/name="IslesOfSerenity"
+run/main_scene="res://Main.tscn"
